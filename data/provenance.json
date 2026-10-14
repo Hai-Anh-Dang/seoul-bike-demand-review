@@ -1,0 +1,21 @@
+{
+  "dataset": "Seoul Bike Sharing Demand",
+  "repository": "UCI Machine Learning Repository",
+  "source_url": "https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand",
+  "doi": "10.24432/C5F62R",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "metadata_verified_date": "2026-10-07",
+  "bundled_file": "SeoulBikeData.csv",
+  "bundle_origin": "Unmodified user-supplied dataset accompanying the university analysis",
+  "independently_compared_to_fresh_download": false,
+  "bytes": 604166,
+  "sha256": "373339b71a8935d69e9af0abf26a70744632119862eeb3919efb389a7b749c60",
+  "rows": 8760,
+  "date_range": ["2017-12-01", "2018-11-30"],
+  "original_columns": 14,
+  "encoding_used": "cp1252",
+  "date_format": "%d/%m/%Y",
+  "raw_rows_deleted": 0,
+  "raw_bytes_modified": false
+}
