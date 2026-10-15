@@ -18,6 +18,6 @@ Source: [UCI dataset page](https://archive.ics.uci.edu/dataset/560/seoul+bike+sh
 
 `SeoulBikeData.csv` retains its supplied bytes. The notebook creates derived analytical columns and outputs without editing that raw file. `provenance.json` records the source and SHA-256. Dataset licensing does not grant a blanket software licence for this project; see [attribution and use of AI](#attribution-and-use-of-ai).
 
-## Attribution and use of AI
+## Attribution
 
 The analytical starting point was a group assignment by Thanh Nguyen, Anh Dang, Nhat Nam Phan and Khoa Nguyen. This Python adaptation retains the model families and dataset while correcting evaluation issues and adding baselines, diagnostics and clearer limits.
